@@ -1,3 +1,11 @@
+*.MP4
+*.jpg
+*.png
+*.iobj
+*.ipdb
+*.pdb
+*.opendb
+
 # Compiled Object files
 *.slo
 *.lo
